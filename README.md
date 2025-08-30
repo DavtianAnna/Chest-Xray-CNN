@@ -77,7 +77,7 @@ The model is built using **Keras (TensorFlow backend)**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Chest-Xray-CNN.git
+git clone https://github.com/DavtianAnna/Chest-Xray-CNN.git
 cd Chest-Xray-CNN
 
 # Install dependencies
